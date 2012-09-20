@@ -1,0 +1,152 @@
+
+.animated {
+    -moz-animation: 1s ease 0s normal none 1 none;
+}
+.animated.hinge {
+    -moz-animation: 2s ease 0s normal none 1 none;
+}
+.flash {
+    -moz-animation-name: flash;
+}
+.shake {
+    -moz-animation-name: shake;
+}
+.bounce {
+    -moz-animation-name: bounce;
+}
+.tada {
+    -moz-animation-name: tada;
+}
+.swing {
+    -moz-animation-name: swing;
+}
+.wobble {
+    -moz-animation-name: wobble;
+}
+.pulse {
+    -moz-animation-name: pulse;
+}
+.fadeIn {
+    -moz-animation-name: fadeIn;
+}
+.fadeInUp {
+    -moz-animation-name: fadeInUp;
+}
+.fadeInDown {
+    -moz-animation-name: fadeInDown;
+}
+.fadeInLeft {
+    -moz-animation-name: fadeInLeft;
+}
+.fadeInRight {
+    -moz-animation-name: fadeInRight;
+}
+.fadeInUpBig {
+    -moz-animation-name: fadeInUpBig;
+}
+.fadeInDownBig {
+    -moz-animation-name: fadeInDownBig;
+}
+.fadeInLeftBig {
+    -moz-animation-name: fadeInLeftBig;
+}
+.fadeInRightBig {
+    -moz-animation-name: fadeInRightBig;
+}
+.fadeOut {
+    -moz-animation-name: fadeOut;
+}
+.fadeOutUp {
+    -moz-animation-name: fadeOutUp;
+}
+.fadeOutDown {
+    -moz-animation-name: fadeOutDown;
+}
+.fadeOutLeft {
+    -moz-animation-name: fadeOutLeft;
+}
+.fadeOutRight {
+    -moz-animation-name: fadeOutRight;
+}
+.fadeOutUpBig {
+    -moz-animation-name: fadeOutUpBig;
+}
+.fadeOutDownBig {
+    -moz-animation-name: fadeOutDownBig;
+}
+.fadeOutLeftBig {
+    -moz-animation-name: fadeOutLeftBig;
+}
+.fadeOutRightBig {
+    -moz-animation-name: fadeOutRightBig;
+}
+.bounceIn {
+    -moz-animation-name: bounceIn;
+}
+.bounceInUp {
+    -moz-animation-name: bounceInUp;
+}
+.bounceInDown {
+    -moz-animation-name: bounceInDown;
+}
+.bounceInLeft {
+    -moz-animation-name: bounceInLeft;
+}
+.bounceInRight {
+    -moz-animation-name: bounceInRight;
+}
+.bounceOut {
+    -moz-animation-name: bounceOut;
+}
+.bounceOutUp {
+    -moz-animation-name: bounceOutUp;
+}
+.bounceOutDown {
+    -moz-animation-name: bounceOutDown;
+}
+.bounceOutLeft {
+    -moz-animation-name: bounceOutLeft;
+}
+.bounceOutRight {
+    -moz-animation-name: bounceOutRight;
+}
+.rotateIn {
+    -moz-animation-name: rotateIn;
+}
+.rotateInUpLeft {
+    -moz-animation-name: rotateInUpLeft;
+}
+.rotateInDownLeft {
+    -moz-animation-name: rotateInDownLeft;
+}
+.rotateInUpRight {
+    -moz-animation-name: rotateInUpRight;
+}
+.rotateInDownRight {
+    -moz-animation-name: rotateInDownRight;
+}
+.rotateOut {
+    -moz-animation-name: rotateOut;
+}
+.rotateOutUpLeft {
+    -moz-animation-name: rotateOutUpLeft;
+}
+.rotateOutDownLeft {
+    -moz-animation-name: rotateOutDownLeft;
+}
+.rotateOutUpRight {
+    -moz-animation-name: rotateOutUpRight;
+}
+.rotateOutDownRight {
+    -moz-animation-name: rotateOutDownRight;
+}
+.hinge {
+    -moz-animation-name: hinge;
+}
+.rollIn {
+    -moz-animation-name: rollIn;
+}
+.rollOut {
+    -moz-animation-name: rollOut;
+}
+

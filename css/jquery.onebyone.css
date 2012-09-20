@@ -1,0 +1,72 @@
+
+.buttonArea {
+    display: none;
+}
+.arrowButton {
+    cursor: pointer;
+    display: block !important;
+    opacity: 1 !important;
+}
+.arrowButton .prevArrow {
+    background: url("../images/cycle_content_slider/prev.png") repeat scroll 0 0 transparent;
+    height: 43px;
+    left: 18px;
+    opacity: 1 !important;
+    position: absolute;
+    top: 215px;
+    width: 43px;
+    z-index: 50;
+}
+.arrowButton .prevArrow:hover {
+    background-position: 0 -43px;
+}
+.arrowButton .nextArrow {
+    background: url("../images/cycle_content_slider/next.png") repeat scroll 0 0 transparent;
+    height: 43px;
+    opacity: 1 !important;
+    position: absolute;
+    right: 18px;
+    top: 215px;
+    width: 43px;
+    z-index: 50;
+}
+.arrowButton .nextArrow:hover {
+    background-position: 0 -43px;
+}
+.animate0 {
+    -moz-animation-delay: 0s;
+    -moz-animation-duration: 0.6s;
+    -moz-animation-fill-mode: both;
+    -moz-animation-timing-function: ease;
+}
+.animate1 {
+    -moz-animation-delay: 0.2s;
+    -moz-animation-duration: 0.6s;
+    -moz-animation-fill-mode: both;
+    -moz-animation-timing-function: ease;
+}
+.animate2 {
+    -moz-animation-delay: 0.4s;
+    -moz-animation-duration: 0.6s;
+    -moz-animation-fill-mode: both;
+    -moz-animation-timing-function: ease;
+}
+.animate3 {
+    -moz-animation-delay: 0.6s;
+    -moz-animation-duration: 0.6s;
+    -moz-animation-fill-mode: both;
+    -moz-animation-timing-function: ease;
+}
+.animate4 {
+    -moz-animation-delay: 0.8s;
+    -moz-animation-duration: 0.6s;
+    -moz-animation-fill-mode: both;
+    -moz-animation-timing-function: ease;
+}
+.animate5 {
+    -moz-animation-delay: 1s;
+    -moz-animation-duration: 0.6s;
+    -moz-animation-fill-mode: both;
+    -moz-animation-timing-function: ease;
+}
+
